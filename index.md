@@ -21,4 +21,4 @@ My GitHub page is http//github.com/julie-28
  - For my third choice, it has to be Lab 6, part 2. I did struggle a bit with this one but it did teach me how to use the or operator and the and operator. I realized slowly how the conditions of the if statements are used. The true and false are important because they are the main dependent of having your function work and having the results put out. 
  
 
-![Hi](https://github.com/Julie-28/Juile-28.github.io/blob/main/penguin-hello.gif)
+![Hi](penguin-hello.gif)
